@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\app",
+    "\\frontend\\app\\checkout",
+    "\\frontend\\app\\contacts",
+    "\\frontend\\app\\login",
+    "\\frontend\\app\\seller\\dashboard",
+    "\\frontend\\app\\seller\\products",
+    "\\frontend\\components",
+    "\\frontend\\context"
+  ],
+  "SelectedNode": "\\frontend\\app\\checkout\\page.tsx",
+  "PreviewInSolutionExplorer": false
+}

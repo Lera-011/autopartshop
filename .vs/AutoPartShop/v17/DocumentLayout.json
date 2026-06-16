@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\checkout\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\checkout\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\login\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\login\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\ContactsSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\ContactsSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\CartDropdown.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\CartDropdown.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\StoreInfo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\StoreInfo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\HeroSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\HeroSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\CatalogSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\CatalogSection.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\cart\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\cart\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\privacy\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\privacy\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\seller\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\products\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\seller\\products\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\ProductCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\ProductCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\context\\CartContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\context\\CartContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\QuickViewModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\components\\QuickViewModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\profile\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\profile\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\admin\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\admin\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\context\\AuthContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\context\\AuthContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\contacts\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\contacts\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\data\\products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\data\\products.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\data\\orders.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\data\\orders.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\categories\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\categories\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\ptoducts\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\seller\\ptoducts\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\orders\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\orders\\page.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\product\\[id]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\app\\product\\[id]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsSection.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\ContactsSection.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\ContactsSection.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\ContactsSection.tsx",
+              "RelativeToolTip": "frontend\\components\\ContactsSection.tsx",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T15:50:38.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\checkout\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\checkout\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\checkout\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\checkout\\page.tsx",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAcwP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T15:25:31.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\globals.css",
+              "RelativeDocumentMoniker": "frontend\\app\\globals.css",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\globals.css",
+              "RelativeToolTip": "frontend\\app\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-16T15:03:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoreInfo.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\StoreInfo.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\StoreInfo.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\StoreInfo.tsx",
+              "RelativeToolTip": "frontend\\components\\StoreInfo.tsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T15:02:28.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\privacy\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\privacy\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\privacy\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\privacy\\page.tsx",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T14:48:27.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\products\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\seller\\products\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\products\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\seller\\products\\page.tsx",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAgwFIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T14:33:46.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuickViewModal.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\QuickViewModal.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\QuickViewModal.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\QuickViewModal.tsx",
+              "RelativeToolTip": "frontend\\components\\QuickViewModal.tsx",
+              "ViewState": "AgIAANoAAAAAAAAAAAAiwOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:52:09.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\admin\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\admin\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\admin\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\admin\\page.tsx",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:41:32.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\contacts\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\contacts\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\contacts\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\contacts\\page.tsx",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:22:05.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCard.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\ProductCard.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\ProductCard.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\ProductCard.tsx",
+              "RelativeToolTip": "frontend\\components\\ProductCard.tsx",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:14:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\cart\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\cart\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\cart\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\cart\\page.tsx",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:13:46.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartContext.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\context\\CartContext.tsx",
+              "RelativeDocumentMoniker": "frontend\\context\\CartContext.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\context\\CartContext.tsx",
+              "RelativeToolTip": "frontend\\context\\CartContext.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:10:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartDropdown.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\CartDropdown.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\CartDropdown.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\CartDropdown.tsx",
+              "RelativeToolTip": "frontend\\components\\CartDropdown.tsx",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:10:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroSection.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\HeroSection.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\HeroSection.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\HeroSection.tsx",
+              "RelativeToolTip": "frontend\\components\\HeroSection.tsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T11:07:13.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\layout.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\layout.tsx",
+              "RelativeToolTip": "frontend\\app\\layout.tsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T10:42:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:52:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\tsconfig.json",
+              "RelativeDocumentMoniker": "frontend\\tsconfig.json",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\tsconfig.json",
+              "RelativeToolTip": "frontend\\tsconfig.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-16T08:39:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\categories\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\categories\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\categories\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\categories\\page.tsx",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:34:23.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\ptoducts\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\seller\\ptoducts\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\ptoducts\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\seller\\ptoducts\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:21:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "orders.ts",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\data\\orders.ts",
+              "RelativeDocumentMoniker": "frontend\\data\\orders.ts",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\data\\orders.ts",
+              "RelativeToolTip": "frontend\\data\\orders.ts",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:19:48.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\orders\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\orders\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\orders\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\orders\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:17:24.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\dashboard\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\seller\\dashboard\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\seller\\dashboard\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\seller\\dashboard\\page.tsx",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAgwHkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:10:11.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\product\\[id]\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\product\\[id]\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\product\\[id]\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\product\\[id]\\page.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:09:41.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CatalogSection.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\CatalogSection.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\CatalogSection.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\CatalogSection.tsx",
+              "RelativeToolTip": "frontend\\components\\CatalogSection.tsx",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:09:18.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "products.ts",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\data\\products.ts",
+              "RelativeDocumentMoniker": "frontend\\data\\products.ts",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\data\\products.ts",
+              "RelativeToolTip": "frontend\\data\\products.ts",
+              "ViewState": "AgIAAFoAAAAAAAAAAAA/wHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-16T08:07:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthContext.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\context\\AuthContext.tsx",
+              "RelativeDocumentMoniker": "frontend\\context\\AuthContext.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\context\\AuthContext.tsx",
+              "RelativeToolTip": "frontend\\context\\AuthContext.tsx",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-15T12:22:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\login\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\login\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\login\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\login\\page.tsx",
+              "ViewState": "AgIAALsAAAAAAAAAAAASwMQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-15T08:11:49.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\Header.tsx",
+              "RelativeDocumentMoniker": "frontend\\components\\Header.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\components\\Header.tsx",
+              "RelativeToolTip": "frontend\\components\\Header.tsx",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-15T08:05:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\profile\\page.tsx",
+              "RelativeDocumentMoniker": "frontend\\app\\profile\\page.tsx",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\u0430\u0448\u043D\u0438\u0439\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0412\u0423\u0417\\3\u043A\u0443\u0440\u0441\\5 \u0441\u0435\u043C\\AutoPartShop\\frontend\\app\\profile\\page.tsx",
+              "RelativeToolTip": "frontend\\app\\profile\\page.tsx",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-06-15T07:57:41.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
